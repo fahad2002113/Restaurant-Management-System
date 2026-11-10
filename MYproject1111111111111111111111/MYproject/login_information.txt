@@ -1,0 +1,7 @@
+ID: 0987, Username: mnbv, Password: 1122, Role: Manager
+ID: 123, Username: aaa, Password: 123, Role: Manager
+ID: 4, Username: eee, Password: 444, Role: Manager
+ID: 4, Username: Sanjida, Password: 444, Role: Manager
+ID: 33, Username: rrrr, Password: 333, Role: Staff
+ID: 3, Username: tony, Password: 1234, Role: Manager
+ID: 2, Username: a, Password: 333, Role: Staff

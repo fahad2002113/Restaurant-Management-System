@@ -1,0 +1,5 @@
+19,pizza,Dessert,1,22
+20,coke ,Drink,2,10
+21,Fried checken,Set menu,33,16
+22,Fanta,Drink,22,7
+23,null,null,null,null
